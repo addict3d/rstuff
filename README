@@ -1,0 +1,3 @@
+Simple rsync wrapper scripts to do various things.
+
+Rcheck to check if differences exist between local and remote directories.
